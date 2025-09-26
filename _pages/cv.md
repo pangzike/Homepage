@@ -8,57 +8,28 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download CV](/files/CV.pdf)
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, Washington University in St. Louis, 2025
+* B.S. in Computer Science and Technology, Sun Yat-sen University, China, 2023
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* [Multi-Grained Knowledge Retrieval for End-to-End Task-Oriented Dialog](/publication/number2)
+  Fanqi Wan, Weizhou Shen, **Ke Yang**, Xiaojun Quan, and Wei Bi. Association for Computational Linguistics (ACL), 2023.
+* [Generic dependency modeling for multi-party conversation](/publication/number1)
+  Weizhou Shen, Xiaojun Quan, **Ke Yang**. ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023
+
+Internship
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* State Key Laboratory of Pattern Recognition, Institute of Automation, CAS, 2022
+
+Research Experience
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* LLM-based systems security, [Prof. Umar Iqbal](https://umariqbal.com/index.html), 2024
+* Task-oriented dialogue system, [Prof. Xiaojun Quan](https://sites.google.com/site/xiaojunquan), 2023
+* Text Entailment Generation and Prompt for NLI, [UCInspire Program](https://sites.uci.edu/ucinspire/), 2023
+* Multi-party conversation, [Prof. Xiaojun Quan](https://sites.google.com/site/xiaojunquan), 2022
