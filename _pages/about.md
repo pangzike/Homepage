@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am first year PhD student in EECS department of University of California - Irvine. My adviser is [Athina Markopoulou](https://athinagroup.eng.uci.edu/athina/).
+I am first year PhD student in EECS department of University of California - Irvine. My adviser is [Prof. Athina Markopoulou](https://athinagroup.eng.uci.edu/athina/).
 
 My research interest is security and privacy issues in AI-powered computing systems. My goal is to identify and mitigate emerging security risks associated with AI technologies. I aim to provide a secure environment for users to benefit from AI advancements, and a reliable platform for developers to exploit AI's potential while maintaining robust security standards.
 
